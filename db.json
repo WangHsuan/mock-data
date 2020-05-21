@@ -23,11 +23,15 @@
       "studyID":60,
       "projectLead":{
         "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Jennifer",
+        "lastName": "Shen",
+        "email":"hsuan@gmail.com"
       },
       "sto":[{
         "id":26,
-        "userName":"ivan@gmail.com"
+        "email":"ivan@gmail.com",
+        "firstName": "Ivan",
+        "lastName":"Wen"
       },{
       "id":26,
       "userName":"ivan@gmail.com"
@@ -76,7 +80,9 @@
       "studyID":60,
       "projectLead":{
         "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Harry",
+        "lastName": "Shen",
+        "email":"hsuan@gmail.com"
       },
       "sto":[{
         "id":26,
@@ -106,8 +112,9 @@
       "deptID":30,
       "studyID":60,
       "projectLead":{
-        "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Nathan",
+        "lastName": "Smith",
+        "email":"test3@gmail.com"
       },
       "sto":[{
         "id":26,
@@ -160,8 +167,9 @@
       "deptID":30,
       "studyID":60,
       "projectLead":{
-        "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Ivan",
+        "lastName": "Smith",
+        "email":"test3@gmail.com"
       },
       "sto":[{
         "id":26,
@@ -209,8 +217,9 @@
       "deptID":30,
       "studyID":60,
       "projectLead":{
-        "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Hsuan",
+        "lastName": "Smith",
+        "email":"test3@gmail.com"
       },
       "sto":[{
         "id":26,
@@ -244,8 +253,9 @@
       "deptID":30,
       "studyID":60,
       "projectLead":{
-        "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Nathan",
+        "lastName": "Smith",
+        "email":"test3@gmail.com"
       },
       "sto":[{
         "id":26,
@@ -281,8 +291,9 @@
       "deptID":30,
       "studyID":60,
       "projectLead":{
-        "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Nathan",
+        "lastName": "Smith",
+        "email":"test3@gmail.com"
       },
       "sto":[{
         "id":26,
@@ -331,8 +342,9 @@
       "deptID":30,
       "studyID":60,
       "projectLead":{
-        "id":26,
-        "userName":"ivan@gmail.com"
+        "firstName": "Nathan",
+        "lastName": "Smith",
+        "email":"test3@gmail.com"
       },
       "sto":[{
         "id":26,
